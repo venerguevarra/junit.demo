@@ -1,7 +1,7 @@
 # JUnit Demo
 
 ## Local Setup
-- Step 2
+- Step 1
 ```cmd
 Step some description
 ```
