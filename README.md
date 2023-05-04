@@ -1,6 +1,6 @@
 # JUnit Demo
 
-## Loca Setup
+## Local Setup
 - Step 1
 ```cmd
 Step some description
